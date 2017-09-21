@@ -1,5 +1,5 @@
 {
-  "name": "babel-plugin-react-test-id",
+  "name": "babel-plugin-transform-test-attr",
   "version": "1.0.0",
   "description": "Transform test attr to data-attr",
   "main": "lib/index.js",
